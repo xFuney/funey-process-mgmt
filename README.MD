@@ -3,7 +3,7 @@
 
 A simple-ish task manager alternative for system administrators - pretty good if you need to circumvent an explicit Deny of Task Manager access in a GPO that is applied to you.
 
-**THE END USER OF THIS PROGRAM IS RESPONSIBLE FOR ANY DAMAGES THAT ARISE FROM ITS USE/MISUSE.**
+**THE END USER OF THIS PROGRAM IS RESPONSIBLE FOR ANY DAMAGES THAT ARISE FROM THE USE/MISUSE OF THIS PROGRAM.**
 
 **I WILL NOT BE LIABLE FOR ANY DAMAGE THAT MAY OCCUR FROM THE USE OF THIS PROGRAM - THIS INCLUDES LOSS OF DATA**
 
